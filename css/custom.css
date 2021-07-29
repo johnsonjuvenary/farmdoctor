@@ -1,0 +1,30 @@
+body {
+  padding-top: 56px;
+}
+::-webkit-input-placeholder {
+  font-size: 13px;
+}
+:-ms-input-placeholder {
+  font-size: 13px;
+}
+::placeholder {
+  font-size: 13px;
+}
+.bg-img {
+  background: url("../images/farmers2.jpeg") no-repeat;
+  background-size: cover;
+}
+.form-background {
+  background: rgba(0, 0, 0, 0.5);
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 3.5rem;
+}
+
+.bg-doc {
+  background: url("../images/plantation565.jpeg") no-repeat;
+  background-size: cover;
+}
